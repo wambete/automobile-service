@@ -4,6 +4,6 @@ Trim:					Avante Garde
 Engine:					V6
 						Kompressor
 						3190 CC
-Torque					210hp
+Torque					354hp
 Mileage					96,900
 
